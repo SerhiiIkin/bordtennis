@@ -1,0 +1,102 @@
+[
+    {
+        "id":"0",
+        "navn": "Ma Long",
+        "nationalitet": "Kina",
+        "rang": 1,
+        "alder": 33,
+        "højde": "180 cm",
+        "vaegt": "72 kg",
+        "billede": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/fzlkiegp1vzcpvrtm1m7",
+        "beskrivelse": "Ma Long, også kendt som 'Kongen af ​​Bordtennis', er en kinesisk bordtennisspiller, der betragtes som en af de største i sportens historie. Med sin aggressive spillestil og enestående teknik har Ma Long domineret bordtennisverdenen i årevis."
+    },
+    {
+        "id":"1",
+        "navn": "Fan Zhendong",
+        "nationalitet": "Kina",
+        "rang": 2,
+        "alder": 25,
+        "højde": "176 cm",
+        "vaegt": "68 kg",
+        "billede": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fan_Zhendong_ATTC2017_75.jpeg",
+        "beskrivelse": "Fan Zhendong er en ung og talentfuld kinesisk bordtennisspiller, kendt for sin utrolige hurtighed og alsidige spillestil. Med flere internationale titler og en imponerende ranglisteplacering har Fan etableret sig som en af de bedste spillere i verden."
+    },
+    {
+        "id":"2",
+        "navn": "Xu Xin",
+        "nationalitet": "Kina",
+        "rang": 3,
+        "alder": 31,
+        "højde": "185 cm",
+        "vaegt": "75 kg",
+        "billede": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/ffjzu894fqgv0k1yvt5b",
+        "beskrivelse": "Xu Xin, kendt som 'The Cloud Walker', er en kinesisk bordtennisspiller kendt for sin uortodokse spillestil og eksplosive angreb. Med sin imponerende færdigheder har Xu Xin vundet mange hjerter og titler over hele verden."
+    },
+    {
+        "id":"3",
+        "navn": "Lin Gaoyuan",
+        "nationalitet": "Kina",
+        "rang": 4,
+        "alder": 25,
+        "højde": "178 cm",
+        "vaegt": "70 kg",
+        "billede": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnNVBk_WxymNic1NCTZAkH845lclXexXIQQ5JHs8Yyg&s",
+        "beskrivelse": "Lin Gaoyuan er en ung og lovende kinesisk bordtennisspiller, der imponerer med sin fænomenale teknik og kampånd. Med sin hurtige forandring af tempo og præcise skud har Lin Gaoyuan etableret sig som en af de mest spændende talenter i sporten."
+        
+    },
+    {
+        "id":"4",
+        "navn": "Tomokazu Harimoto",
+        "nationalitet": "Japan",
+        "rang": 5,
+        "alder": 18,
+        "højde": "169 cm",
+        "vaegt": "64 kg",
+        "billede": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVWkqX5lj1KqMEuDXqhGTW247UqALNqoUxaMbnDySFg&s",
+        "beskrivelse": "Tomokazu Harimoto er en japansk bordtennisspiller, der har brudt igennem på den internationale scene i en ung alder. Med sin utrolige energi og offensive spillestil har Harimoto allerede vundet flere mesterskaber og er blevet et forbillede for mange unge spillere."
+    },
+    {
+        "id":"5",
+        "navn": "Wang Chuqin",
+        "nationalitet": "Kina",
+        "rang": 6,
+        "alder": 22,
+        "højde": "182 cm",
+        "vaegt": "73 kg",
+        "billede": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Table_tennis_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Men%27s_Singles_Gold_Medal_Match_068_%28cropped%29.jpg/1200px-Table_tennis_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Men%27s_Singles_Gold_Medal_Match_068_%28cropped%29.jpg",
+        "beskrivelse": "Wang Chuqin er en talentfuld kinesisk bordtennisspiller kendt for sin aggressive spillestil og taktiske intelligens. Med sin evne til at tilpasse sig forskellige modstandere og situationer har Wang allerede opnået bemærkelsesværdig succes på både nationalt og internationalt niveau."
+    },
+    {
+        "id":"6",
+        "navn": "Liang Jingkun",
+        "nationalitet": "Kina",
+        "rang": 7,
+        "alder": 24,
+        "højde": "181 cm",
+        "vaegt": "74 kg",
+        "billede": "https://upload.wikimedia.org/wikipedia/commons/0/09/Liang_Jingkun_ACTTC2016_1_%28cropped-1%29.jpeg",
+        "beskrivelse": "Liang Jingkun er en kinesisk bordtennisspiller, der er kendt for sin imponerende teknik og konsekvente præstationer. Med sin dedikation og arbejdsmoral har Liang etableret sig som en stabil og pålidelig spiller på det internationale circuit."
+    },
+    {
+        "id":"7",
+        "navn": "Liu Shiwen",
+        "nationalitet": "Kina",
+        "rang": 1,
+        "alder": 31,
+        "højde": "166 cm",
+        "vaegt": "58 kg",
+        "billede": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/r4qzgvbrew0jnzms5432",
+        "beskrivelse": "Liu Shiwen er en legendarisk kinesisk kvindelig bordtennisspiller, der har domineret sporten gennem årene med sin uovertrufne teknik og stærke mentale spillestil. Med en imponerende samling af mesterskaber og titler anses Liu for at være en af de bedste kvindelige bordtennisspillere nogensinde."
+      },
+      {
+        "id":"8",
+        "navn": "Lin Yun-Ju",
+        "nationalitet": "Taiwan",
+        "rang": 8,
+        "alder": 20,
+        "højde": "177 cm",
+        "vaegt": "68 kg",
+        "billede": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5IPzO3wqjw2JEPbNMDWu_1ic-KUYipqcBnMIt8AtFA&s",
+        "beskrivelse": "Lin Yun-Ju er en ung og lovende bordtennisspiller fra Taiwan, der imponerer med sin eksplosive kraft og alsidige spillestil. Med en imponerende stigning i verdensrangeringen har Lin vist sit potentiale til at være en af sportens kommende stjerner."
+      }
+]
